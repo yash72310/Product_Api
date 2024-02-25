@@ -1,0 +1,38 @@
+[
+    {
+        "name":"iphone",
+        "price":50000,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"Samsung S21",
+        "price":30000,
+        "featured":true,
+        "company":"samsung"
+    },
+    {
+        "name":"Samsung S23",
+        "price":70000,
+        "featured":true,
+        "company":"samsung"
+    },
+    {
+        "name":"Redmi Note 13",
+        "price":16000,
+        "featured":true,
+        "company":"mi"
+    },
+    {
+        "name":"Redmi Note 10",
+        "price":12000,
+        "featured":true,
+        "company":"mi"
+    },
+    {
+        "name":"Samsung A51",
+        "price":18000,
+        "featured":true,
+        "company":"samsung"
+    }
+]
